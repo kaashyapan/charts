@@ -130,6 +130,7 @@ export 'package:charts_common/common.dart'
         SelectionModel,
         SelectionModelListener,
         SelectionModelType,
+        SelectionMode,
         SelectionTrigger,
         Series,
         SeriesDatum,
